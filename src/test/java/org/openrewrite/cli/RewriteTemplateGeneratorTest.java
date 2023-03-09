@@ -27,7 +27,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.fail;
 
-public class RewriteTemplateGeneratorTest {
+class RewriteTemplateGeneratorTest {
     @Test
     @Disabled
     void commonsText() {
